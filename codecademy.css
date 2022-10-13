@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+.inp--one{
+    text-align: center;
+}
+.inp--two{
+    text-align: center;
+}
+.p--two{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: black;
+}
+.btn{
+    text-align: center;
+}
+button{
+    position: relative;
+  top: 50;
+  background-color: blue;
+  color: white;
+  
+}
+.bg--color{
+ background-color: antiquewhite;
+}
